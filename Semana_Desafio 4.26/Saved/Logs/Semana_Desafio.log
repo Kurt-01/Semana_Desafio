@@ -3393,3 +3393,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-19.54.25:822][534]LogSavePackage: Moving '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Saved/Minimal_DefaultB9E8FDEF476B675F0C01F18C5F992909.tmp' to '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.05.27-19.54.25:833][534]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.05.27-19.54.25:833][534]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.27-20.01.17:958][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.27-20.01.17:976][ 65]LogSavePackage: Moving '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Saved/Minimal_DefaultAE81ADF74651D42742AE9886BF937140.tmp' to '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.27-20.01.17:987][ 65]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.05.27-20.01.17:987][ 65]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
