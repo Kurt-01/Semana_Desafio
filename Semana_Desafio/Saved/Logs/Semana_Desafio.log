@@ -2736,3 +2736,524 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-13.15.08:805][320]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E4F2E3000), frame # 194320
 [2021.05.27-13.15.08:810][320]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
 [2021.05.27-13.15.08:854][321]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.05.27-13.15.58:161][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.05.27-13.15.58:205][956]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default_Auto5A46394734F1020E350C086BECE02C448.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2021.05.27-13.15.58:207][956]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.090
+[2021.05.27-13.15.58:207][956]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2021.05.27-13.15.58:208][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PortaFake] ([1] browsable assets)...
+[2021.05.27-13.15.58:272][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PortaFake.PortaFake]
+[2021.05.27-13.15.58:272][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/PortaFake]
+[2021.05.27-13.15.58:488][956]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/PortaFake_Auto58A851B96480283D8C645F0B1E5BFFDC6.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/PortaFake_Auto5.uasset'
+[2021.05.27-13.15.58:489][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParedeFake] ([1] browsable assets)...
+[2021.05.27-13.15.58:512][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParedeFake.ParedeFake]
+[2021.05.27-13.15.58:512][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParedeFake]
+[2021.05.27-13.15.58:528][956]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/ParedeFake_Auto504556D9549E422939C7C15BFB94C7847.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/ParedeFake_Auto5.uasset'
+[2021.05.27-13.15.58:529][956]LogFileHelpers: Auto-saving content packages took 0.322
+[2021.05.27-13.16.01:018][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2021.05.27-13.16.02:014][112]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.16.11:240][526]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.16.17:470][811]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.16.17:868][827]Cmd: TRANSACTION UNDO
+[2021.05.27-13.16.17:868][827]LogEditorTransaction: Undo Editar Escala do Placar do Editor
+[2021.05.27-13.17.42:262][314]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-13.17.42:282][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-13.17.42:283][314]PIE: New page: Sessão de PIE : Minimal_Default (27 de mai de 2021 07:17:42)
+[2021.05.27-13.17.42:283][314]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.17.42:291][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007972s)
+[2021.05.27-13.17.42:293][314]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-13.17.42:293][314]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028E6BE40400), frame # 199314
+[2021.05.27-13.17.42:293][314]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E64F12C00), frame # 199314
+[2021.05.27-13.17.42:294][314]LogPlayLevel: PIE: World Init took: (0.002290s)
+[2021.05.27-13.17.42:294][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010516s)
+[2021.05.27-13.17.42:337][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-13.17.42:342][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-13.17.42:343][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-13.17.42:343][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-13.17.42:343][314]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-13.17.42:343][314]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-13.17.42:346][314]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-13.17.42:346][314]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-13.17.42:367][314]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.05.27-13.17.42:367][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-13.17.42:367][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-13.17.42:367][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-13.17.42:368][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-13.17.42:382][314]LogInit: FAudioDevice initialized.
+[2021.05.27-13.17.42:390][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.27-13.17.42:394][314]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-10.17.42
+[2021.05.27-13.17.42:394][314]LogWorld: Bringing up level for play took: 0.003496
+[2021.05.27-13.17.42:394][314]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.05.27-13.17.42:400][314]PIE: Servidor conectado
+[2021.05.27-13.17.42:401][314]PIE: Play in editor total start time 0,12 seconds.
+[2021.05.27-13.17.42:837][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16.098 Y=-8.541 Z=161.153] for [FirstPersonProjectile_C]
+[2021.05.27-13.17.51:955][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.17.51:955][796]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.17.51:956][796]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.17.51:957][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.17.51:977][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-13.17.51:984][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.17.52:040][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.17.52:041][796]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E64F12C00), frame # 199796
+[2021.05.27-13.17.52:041][796]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E6BE40400), frame # 199796
+[2021.05.27-13.17.52:046][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.05.27-13.17.52:090][797]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.05.27-13.17.53:483][859]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.18.54:931][305]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-13.18.54:949][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.27-13.18.54:950][305]LogPlayLevel: [PlayLevel] Compiling PortaFake before play...
+[2021.05.27-13.18.55:112][305]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.05.27-13.18.55:115][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (1 blueprints)
+[2021.05.27-13.18.55:116][305]PIE: New page: Sessão de PIE : Minimal_Default (27 de mai de 2021 07:18:55)
+[2021.05.27-13.18.55:116][305]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.18.55:125][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008809s)
+[2021.05.27-13.18.55:127][305]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-13.18.55:127][305]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028E64255C00), frame # 202305
+[2021.05.27-13.18.55:127][305]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E4F34B9C0), frame # 202305
+[2021.05.27-13.18.55:128][305]LogPlayLevel: PIE: World Init took: (0.002604s)
+[2021.05.27-13.18.55:128][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011697s)
+[2021.05.27-13.18.55:169][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-13.18.55:171][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-13.18.55:171][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-13.18.55:172][305]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-13.18.55:172][305]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-13.18.55:175][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-13.18.55:175][305]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-13.18.55:193][305]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.05.27-13.18.55:194][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-13.18.55:194][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-13.18.55:194][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-13.18.55:195][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-13.18.55:207][305]LogInit: FAudioDevice initialized.
+[2021.05.27-13.18.55:216][305]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.27-13.18.55:219][305]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-10.18.55
+[2021.05.27-13.18.55:220][305]LogWorld: Bringing up level for play took: 0.003173
+[2021.05.27-13.18.55:220][305]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.05.27-13.18.55:226][305]PIE: Servidor conectado
+[2021.05.27-13.18.55:227][305]PIE: Play in editor total start time 0,279 seconds.
+[2021.05.27-13.18.55:651][323]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16.118 Y=-8.447 Z=161.149] for [FirstPersonProjectile_C]
+[2021.05.27-13.19.07:755][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.19.07:755][916]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.19.07:755][916]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.19.07:756][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.19.07:773][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-13.19.07:779][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.19.07:813][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.19.07:841][916]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E4F34B9C0), frame # 202916
+[2021.05.27-13.19.07:841][916]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E64255C00), frame # 202916
+[2021.05.27-13.19.07:846][916]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.05.27-13.19.07:890][917]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.05.27-13.19.50:202][589]LogSlate: Window 'PortaFake' being destroyed
+[2021.05.27-13.19.50:222][589]LogSlate: Window 'PortaFake' being destroyed
+[2021.05.27-13.19.50:243][589]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.19.50:243][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.19.50:369][589]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.27-13.19.50:369][589]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.19.50:370][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.19.58:445][967]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.27-13.20.19:336][916]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.27-13.20.51:182][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.21.11:518][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.21.12:712][148]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-13.21.12:728][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-13.21.12:728][148]PIE: New page: Sessão de PIE : Minimal_Default (27 de mai de 2021 07:21:12)
+[2021.05.27-13.21.12:729][148]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.21.12:738][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009187s)
+[2021.05.27-13.21.12:740][148]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-13.21.12:740][148]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028E65151400), frame # 208148
+[2021.05.27-13.21.12:740][148]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028DE592D580), frame # 208148
+[2021.05.27-13.21.12:740][148]LogPlayLevel: PIE: World Init took: (0.002383s)
+[2021.05.27-13.21.12:741][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011768s)
+[2021.05.27-13.21.12:794][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-13.21.12:808][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-13.21.12:808][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-13.21.12:809][148]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-13.21.12:809][148]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-13.21.12:812][148]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-13.21.12:812][148]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-13.21.12:831][148]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.05.27-13.21.12:831][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-13.21.12:831][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-13.21.12:831][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-13.21.12:833][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-13.21.12:848][148]LogInit: FAudioDevice initialized.
+[2021.05.27-13.21.12:860][148]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.27-13.21.12:865][148]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-10.21.12
+[2021.05.27-13.21.12:865][148]LogWorld: Bringing up level for play took: 0.003680
+[2021.05.27-13.21.12:865][148]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.05.27-13.21.12:871][148]PIE: Servidor conectado
+[2021.05.27-13.21.12:872][148]PIE: Play in editor total start time 0,145 seconds.
+[2021.05.27-13.21.13:357][171]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16.111 Y=-8.488 Z=161.159] for [FirstPersonProjectile_C]
+[2021.05.27-13.21.21:535][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.21.21:535][585]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.21.21:535][585]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.21.21:536][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.21.21:548][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-13.21.21:555][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.21.21:609][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.21.21:610][585]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028DE592D580), frame # 208585
+[2021.05.27-13.21.21:610][585]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E65151400), frame # 208585
+[2021.05.27-13.21.21:615][585]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.05.27-13.21.21:659][586]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.05.27-13.21.23:279][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.22.13:012][684]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-13.22.13:031][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-13.22.13:031][684]PIE: New page: Sessão de PIE : Minimal_Default (27 de mai de 2021 07:22:13)
+[2021.05.27-13.22.13:031][684]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.22.13:041][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009082s)
+[2021.05.27-13.22.13:043][684]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-13.22.13:044][684]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028E652FDC00), frame # 210684
+[2021.05.27-13.22.13:044][684]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028DE5CC5BC0), frame # 210684
+[2021.05.27-13.22.13:044][684]LogPlayLevel: PIE: World Init took: (0.002493s)
+[2021.05.27-13.22.13:044][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011798s)
+[2021.05.27-13.22.13:077][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-13.22.13:088][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-13.22.13:088][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-13.22.13:089][684]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-13.22.13:089][684]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-13.22.13:091][684]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-13.22.13:091][684]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-13.22.13:110][684]LogAudioMixer: Display: Using Audio Device Alto-falantes (High Definition Audio Device)
+[2021.05.27-13.22.13:111][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-13.22.13:111][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-13.22.13:111][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-13.22.13:112][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-13.22.13:125][684]LogInit: FAudioDevice initialized.
+[2021.05.27-13.22.13:138][684]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.27-13.22.13:143][684]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-10.22.13
+[2021.05.27-13.22.13:143][684]LogWorld: Bringing up level for play took: 0.004449
+[2021.05.27-13.22.13:144][684]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.05.27-13.22.13:150][684]PIE: Servidor conectado
+[2021.05.27-13.22.13:151][684]PIE: Play in editor total start time 0,121 seconds.
+[2021.05.27-13.22.13:708][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=16.117 Y=-8.458 Z=161.152] for [FirstPersonProjectile_C]
+[2021.05.27-13.22.18:745][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.22.18:745][959]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-13.22.18:745][959]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-13.22.18:746][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.22.18:753][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-13.22.18:760][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-13.22.18:788][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-13.22.18:815][959]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028DE5CC5BC0), frame # 210959
+[2021.05.27-13.22.18:815][959]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E652FDC00), frame # 210959
+[2021.05.27-13.22.18:819][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.05.27-13.22.18:862][960]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.05.27-13.22.22:250][119]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.23.32:453][567]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.05.27-13.23.44:887][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.26.35:795][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.05.27-13.26.35:855][ 42]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default_Auto66CA205CB4E375D23D14D639F3ED1671D.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2021.05.27-13.26.35:886][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.128
+[2021.05.27-13.26.35:886][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2021.05.27-13.26.35:886][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PortaFake] ([1] browsable assets)...
+[2021.05.27-13.26.35:910][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PortaFake.PortaFake]
+[2021.05.27-13.26.35:910][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/PortaFake]
+[2021.05.27-13.26.36:146][ 42]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/PortaFake_Auto6A02443C04FF652B043927FBC56C0B4D7.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/PortaFake_Auto6.uasset'
+[2021.05.27-13.26.36:148][ 42]LogFileHelpers: Auto-saving content packages took 0.262
+[2021.05.27-13.38.35:718][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\arthu\OneDrive\Área de Trabalho\Cadeira.fbx)
+[2021.05.27-13.38.35:967][603]LogFbx: Loading FBX Scene from C:\Users\arthu\OneDrive\Área de Trabalho\Cadeira.fbx
+[2021.05.27-13.38.36:454][603]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.27-13.38.39:621][603]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2021.05.27-13.38.43:909][603]LogTexture: Display: Building textures: WoodFloor043_2K_Color (AutoDXT, 2048X1024)
+[2021.05.27-13.38.47:606][603]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.05.27-13.38.47:996][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.38.47:996][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.38.47:996][603]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.38.47:996][603]LogFbx: Display: Triangulating static mesh Cube
+[2021.05.27-13.39.19:609][603]LogStaticMesh: Criando malha estática Cadeira...
+[2021.05.27-13.39.30:996][603]LogStaticMesh: Built static mesh [11.37s] /Game/Mesh/Cadeira.Cadeira
+[2021.05.27-13.39.35:040][603]LogStaticMesh: Warning: Cadeira has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.27-13.39.35:095][603]LogStaticMesh: Warning: Cadeira has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.39.35:095][603]LogStaticMesh: Warning: Cadeira has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.39.39:259][603]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.27-13.39.39:259][603]FBXImport: Warning: Cadeira has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.27-13.39.39:259][603]FBXImport: Warning: Cadeira has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.39.39:259][603]FBXImport: Warning: Cadeira has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.39.44:652][603]LogSlate: Took 0.205531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.27-13.39.45:317][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.27-13.39.45:739][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.519
+[2021.05.27-13.39.45:742][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Cadeira] ([1] browsable assets)...
+[2021.05.27-13.39.45:779][604]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Cadeira.Cadeira]
+[2021.05.27-13.39.45:779][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Cadeira]
+[2021.05.27-13.39.50:603][604]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Cadeira_Auto7430FF0A2442AD691B07BEB90B84758E1.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Cadeira_Auto7.uasset'
+[2021.05.27-13.39.50:606][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_001] ([1] browsable assets)...
+[2021.05.27-13.39.50:706][604]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_001.Material_001]
+[2021.05.27-13.39.50:706][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_001]
+[2021.05.27-13.39.51:194][604]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_001_Auto749217B664AB8216A51137889B13B1986.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_001_Auto7.uasset'
+[2021.05.27-13.39.51:195][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/WoodFloor043_2K_Color] ([1] browsable assets)...
+[2021.05.27-13.39.51:201][604]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Mesh/WoodFloor043_2K_Color.WoodFloor043_2K_Color]
+[2021.05.27-13.39.51:201][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/WoodFloor043_2K_Color]
+[2021.05.27-13.39.51:307][604]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/WoodFloor043_2K_Color_Auto71C56802C4296CDCECDF185A4BCF6A8EF.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/WoodFloor043_2K_Color_Auto7.uasset'
+[2021.05.27-13.39.51:308][604]LogFileHelpers: Auto-saving content packages took 5.568
+[2021.05.27-13.39.56:647][754]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2021.05.27-13.39.56:673][754]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2021.05.27-13.39.59:961][874]LogActorFactory: Actor Factory created Cadeira
+[2021.05.27-13.40.01:453][919]LogActorFactory: Actor Factory created Cadeira
+[2021.05.27-13.40.12:962][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2021.05.27-13.40.16:846][295]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x301)
+[2021.05.27-13.40.18:381][295]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x200)
+[2021.05.27-13.40.24:327][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.40.32:328][683]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.40.33:004][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.40.37:559][808]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.40.40:757][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:757][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:757][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:758][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:759][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:759][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.40:759][931]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.PortaFake_5.SM_Door has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=1.250 Z=1.020
+[2021.05.27-13.40.46:970][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.40.48:698][238]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-13.40.56:816][560]Cmd: TRANSACTION UNDO
+[2021.05.27-13.40.56:816][560]LogEditorTransaction: Undo Clicando nos Atores
+[2021.05.27-13.40.57:304][567]Cmd: TRANSACTION UNDO
+[2021.05.27-13.40.57:304][567]LogEditorTransaction: Undo Clicando nos Atores
+[2021.05.27-13.40.57:722][582]Cmd: TRANSACTION UNDO
+[2021.05.27-13.40.57:722][582]LogEditorTransaction: Undo Set Scale
+[2021.05.27-13.40.59:044][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.41.02:027][702]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Cadeira_22.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.200 Z=0.200
+[2021.05.27-13.41.02:028][702]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.27-13.41.02:028][702]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.27-13.41.02:028][702]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Cadeira_22.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.200 Z=0.200
+[2021.05.27-13.41.02:028][702]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.05.27-13.41.02:028][702]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.05.27-13.41.08:871][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.41.16:708][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.45.36:734][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.45.38:286][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cadeira)
+[2021.05.27-13.46.04:023][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.05.27-13.46.04:220][873]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default4B3CC8D84C0D4097C98779AE8F7DCE4E.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.27-13.46.06:369][873]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default_BuiltDataD05347964384A56F381D83B9C264E4C5.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.27-13.46.06:530][873]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-13.46.06:530][873]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.27-13.46.06:530][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.27-13.54.21:719][890]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\arthu\OneDrive\Área de Trabalho\Armário .fbx)
+[2021.05.27-13.54.21:841][890]LogFbx: Loading FBX Scene from C:\Users\arthu\OneDrive\Área de Trabalho\Armário .fbx
+[2021.05.27-13.54.22:631][890]LogFbx: FBX Scene Loaded Succesfully
+[2021.05.27-13.54.24:438][890]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2021.05.27-13.54.24:496][890]LogFbx: Display: Triangulating static mesh Cube
+[2021.05.27-13.54.24:616][890]LogStaticMesh: Criando malha estática Armário__Cube...
+[2021.05.27-13.54.24:668][890]LogStaticMesh: Built static mesh [0.09s] /Game/Mesh/Armário__Cube.Armário__Cube
+[2021.05.27-13.54.24:779][890]LogStaticMesh: Warning: Armário__Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.05.27-13.54.24:779][890]LogStaticMesh: Warning: Armário__Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.54.25:221][890]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2021.05.27-13.54.25:234][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.54.25:235][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.54.25:235][890]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.54.25:235][890]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.05.27-13.54.37:357][890]LogStaticMesh: Criando malha estática Armário__Cube_001...
+[2021.05.27-13.54.41:386][890]LogStaticMesh: Built static mesh [4.05s] /Game/Mesh/Armário__Cube_001.Armário__Cube_001
+[2021.05.27-13.54.41:962][890]LogStaticMesh: Warning: Armário__Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.54.42:714][890]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2021.05.27-13.54.42:921][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.54.42:921][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.54.42:921][890]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.54.42:921][890]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.05.27-13.54.54:289][890]LogStaticMesh: Criando malha estática Armário__Cube_002...
+[2021.05.27-13.54.58:319][890]LogStaticMesh: Built static mesh [4.05s] /Game/Mesh/Armário__Cube_002.Armário__Cube_002
+[2021.05.27-13.54.58:911][890]LogStaticMesh: Warning: Armário__Cube_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.54.59:504][890]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2021.05.27-13.54.59:785][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.54.59:785][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.54.59:785][890]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.54.59:785][890]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.05.27-13.55.11:321][890]LogStaticMesh: Criando malha estática Armário__Cube_003...
+[2021.05.27-13.55.15:655][890]LogStaticMesh: Built static mesh [4.35s] /Game/Mesh/Armário__Cube_003.Armário__Cube_003
+[2021.05.27-13.55.16:279][890]LogStaticMesh: Warning: Armário__Cube_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.55.17:028][890]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2021.05.27-13.55.17:197][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.55.17:197][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.55.17:197][890]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.55.17:197][890]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.05.27-13.55.29:166][890]LogStaticMesh: Criando malha estática Armário__Cube_004...
+[2021.05.27-13.55.33:303][890]LogStaticMesh: Built static mesh [4.18s] /Game/Mesh/Armário__Cube_004.Armário__Cube_004
+[2021.05.27-13.55.33:978][890]LogStaticMesh: Warning: Armário__Cube_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.55.34:919][890]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2021.05.27-13.55.34:993][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.05.27-13.55.34:994][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-13.55.34:994][890]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-13.55.34:994][890]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.05.27-13.55.46:724][890]LogStaticMesh: Criando malha estática Armário__Cube_005...
+[2021.05.27-13.55.51:430][890]LogStaticMesh: Built static mesh [4.73s] /Game/Mesh/Armário__Cube_005.Armário__Cube_005
+[2021.05.27-13.55.52:030][890]LogStaticMesh: Warning: Armário__Cube_005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube_002 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.02:450][890]FBXImport: Warning: Armário__Cube_005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.05.27-13.56.18:790][127]LogUObjectHash: Compacting FUObjectHashTables data took  44.04ms
+[2021.05.27-13.56.19:140][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 2.976
+[2021.05.27-13.56.19:567][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_002] ([1] browsable assets)...
+[2021.05.27-13.56.19:774][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_002.Material_002]
+[2021.05.27-13.56.19:774][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_002]
+[2021.05.27-13.56.20:112][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_002_Auto802DAA2A949D6A03C6D3B34BF7649CEEE.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_002_Auto8.uasset'
+[2021.05.27-13.56.20:113][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube] ([1] browsable assets)...
+[2021.05.27-13.56.20:190][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube.Armário__Cube]
+[2021.05.27-13.56.20:190][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube]
+[2021.05.27-13.56.20:643][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_Auto8CEDE07AD488ACDCF78D728B270E52A5E.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_Auto8.uasset'
+[2021.05.27-13.56.20:657][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube_001] ([1] browsable assets)...
+[2021.05.27-13.56.20:717][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube_001.Armário__Cube_001]
+[2021.05.27-13.56.20:717][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube_001]
+[2021.05.27-13.56.23:583][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_001_Auto81598F56A436423B235C02097995D38C0.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_001_Auto8.uasset'
+[2021.05.27-13.56.23:584][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_003] ([1] browsable assets)...
+[2021.05.27-13.56.23:607][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_003.Material_003]
+[2021.05.27-13.56.23:607][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_003]
+[2021.05.27-13.56.23:651][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_003_Auto81C92748F497ECC6816B403B19BDE6B67.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_003_Auto8.uasset'
+[2021.05.27-13.56.23:652][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube_002] ([1] browsable assets)...
+[2021.05.27-13.56.23:678][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube_002.Armário__Cube_002]
+[2021.05.27-13.56.23:678][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube_002]
+[2021.05.27-13.56.25:585][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_002_Auto804C3B2DE471E3AC0F11E649ED60A9F86.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_002_Auto8.uasset'
+[2021.05.27-13.56.25:587][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_004] ([1] browsable assets)...
+[2021.05.27-13.56.25:610][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_004.Material_004]
+[2021.05.27-13.56.25:610][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_004]
+[2021.05.27-13.56.25:624][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_004_Auto83BCBE61B40185BD4F4FE4997A11DCAB3.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_004_Auto8.uasset'
+[2021.05.27-13.56.25:625][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube_003] ([1] browsable assets)...
+[2021.05.27-13.56.25:650][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube_003.Armário__Cube_003]
+[2021.05.27-13.56.25:650][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube_003]
+[2021.05.27-13.56.27:420][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_003_Auto8F739EC6844DAB3415EB1CC9C51D4E3B9.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_003_Auto8.uasset'
+[2021.05.27-13.56.27:422][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_005] ([1] browsable assets)...
+[2021.05.27-13.56.27:445][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_005.Material_005]
+[2021.05.27-13.56.27:445][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_005]
+[2021.05.27-13.56.27:469][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_005_Auto8FAE6A39646DB4585C6C29AB84F0B8F16.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_005_Auto8.uasset'
+[2021.05.27-13.56.27:470][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube_004] ([1] browsable assets)...
+[2021.05.27-13.56.27:496][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube_004.Armário__Cube_004]
+[2021.05.27-13.56.27:496][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube_004]
+[2021.05.27-13.56.29:199][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_004_Auto851AF37194409A31A868BAC85F4E8D100.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_004_Auto8.uasset'
+[2021.05.27-13.56.29:201][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Material_006] ([1] browsable assets)...
+[2021.05.27-13.56.29:223][127]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mesh/Material_006.Material_006]
+[2021.05.27-13.56.29:223][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Material_006]
+[2021.05.27-13.56.29:285][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Material_006_Auto868CC94B243598B769F168BBF11535138.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Material_006_Auto8.uasset'
+[2021.05.27-13.56.29:287][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/Armário__Cube_005] ([1] browsable assets)...
+[2021.05.27-13.56.29:312][127]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/Armário__Cube_005.Armário__Cube_005]
+[2021.05.27-13.56.29:312][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/Armário__Cube_005]
+[2021.05.27-13.56.31:048][127]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Armário__Cube_005_Auto8562D0D9348DC737366243E93DD067D91.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/Mesh/Armário__Cube_005_Auto8.uasset'
+[2021.05.27-13.56.31:069][127]LogFileHelpers: Auto-saving content packages took 11.664
+[2021.05.27-13.56.39:615][413]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2021.05.27-13.56.39:639][413]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2021.05.27-13.56.43:539][511]LogActorFactory: Actor Factory created Armário__Cube
+[2021.05.27-13.56.43:890][511]LogActorFactory: Actor Factory created Armário__Cube_001
+[2021.05.27-13.56.43:909][511]LogActorFactory: Actor Factory created Armário__Cube_002
+[2021.05.27-13.56.43:916][511]LogActorFactory: Actor Factory created Armário__Cube_003
+[2021.05.27-13.56.43:916][511]LogActorFactory: Actor Factory created Armário__Cube_004
+[2021.05.27-13.56.43:935][511]LogActorFactory: Actor Factory created Armário__Cube_005
+[2021.05.27-13.56.44:164][511]LogActorFactory: Actor Factory created Armário__Cube
+[2021.05.27-13.56.44:258][511]LogActorFactory: Actor Factory created Armário__Cube_001
+[2021.05.27-13.56.44:345][511]LogActorFactory: Actor Factory created Armário__Cube_002
+[2021.05.27-13.56.44:451][511]LogActorFactory: Actor Factory created Armário__Cube_003
+[2021.05.27-13.56.44:537][511]LogActorFactory: Actor Factory created Armário__Cube_004
+[2021.05.27-13.56.44:630][511]LogActorFactory: Actor Factory created Armário__Cube_005
+[2021.05.27-13.56.48:925][585]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x202)
+[2021.05.27-13.56.51:134][585]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x202)
+[2021.05.27-13.56.52:154][599]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.27-13.56.54:045][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.57.30:318][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.57.33:390][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.57.55:610][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.58.02:378][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.58.05:758][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.58.11:999][191]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.12:009][191]LogEditorTransaction: Undo Clicando nos Atores
+[2021.05.27-13.58.18:246][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.58.19:725][423]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.19:725][423]LogEditorTransaction: Undo Clicando nos Atores
+[2021.05.27-13.58.20:611][448]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x202)
+[2021.05.27-13.58.22:969][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.27-13.58.23:878][547]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.23:878][547]LogEditorTransaction: Undo Clicando nos Atores
+[2021.05.27-13.58.24:365][555]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.24:365][555]LogEditorTransaction: Undo Clicando nos Atores (menu de contexto)
+[2021.05.27-13.58.25:033][573]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.25:033][573]LogEditorTransaction: Undo Set Location
+[2021.05.27-13.58.26:140][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.58.51:188][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.58.54:218][438]Cmd: TRANSACTION UNDO
+[2021.05.27-13.58.54:218][438]LogEditorTransaction: Undo Set Rotation
+[2021.05.27-13.58.58:864][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.59.00:708][613]Cmd: TRANSACTION UNDO
+[2021.05.27-13.59.00:708][613]LogEditorTransaction: Undo Set Rotation
+[2021.05.27-13.59.09:218][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.59.10:827][876]Cmd: TRANSACTION UNDO
+[2021.05.27-13.59.10:827][876]LogEditorTransaction: Undo Set Location
+[2021.05.27-13.59.18:199][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.59.24:623][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.59.37:899][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-13.59.56:906][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-14.00.08:135][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Armário__Cube)
+[2021.05.27-14.00.44:947][769]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPerson/Meshes/BaseMaterial.BaseMaterial
+[2021.05.27-14.00.45:284][769]LogMaterial: Display: Missing cached shader map for material BaseMaterial, compiling. 
+[2021.05.27-14.00.52:790][769]LogMaterial: Display: Missing cached shader map for material BaseMaterial, compiling. 
+[2021.05.27-14.00.52:864][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.05.27-14.00.52:903][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.05.27-14.00.52:903][769]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.05.27-14.00.54:861][769]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.05.27-14.00.56:713][769]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.05.27-14.00.56:713][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.05.27-14.00.56:713][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.05.27-14.00.58:560][770]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.05.27-14.00.58:561][770]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.05.27-14.00.58:561][770]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.05.27-14.00.58:561][770]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.05.27-14.00.59:126][771]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.05.27-14.00.59:126][771]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.05.27-14.00.59:126][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.05.27-14.00.59:681][780]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.05.27-14.00.59:818][782]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.05.27-14.01.00:775][793]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.05.27-14.01.00:779][793]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.05.27-14.01.01:082][797]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.05.27-14.01.02:111][817]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.05.27-14.01.02:233][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.05.27-14.01.02:338][821]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.05.27-14.01.04:310][855]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.05.27-14.01.04:652][861]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2021.05.27-14.01.04:652][861]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.05.27-14.01.05:288][872]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.05.27-14.01.07:013][901]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.05.27-14.01.07:013][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.05.27-14.01.07:112][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.05.27-14.01.08:401][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.05.27-14.01.08:904][934]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.05.27-14.01.09:145][938]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.05.27-14.01.09:563][945]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2021.05.27-14.01.09:627][945]MaterialEditorStats: Texture samplers: 2/16
+[2021.05.27-14.01.10:184][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.05.27-14.01.22:969][170]LogSlate: Window 'BaseMaterial' being destroyed
+[2021.05.27-14.01.22:982][170]LogSlate: Window 'BaseMaterial' being destroyed
+[2021.05.27-14.01.23:153][170]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-14.01.23:160][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-14.02.40:054][196]LogUObjectHash: Compacting FUObjectHashTables data took  23.62ms
+[2021.05.27-14.02.40:214][196]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default6E9E7AAE46C331C617BEA9A396392D86.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.27-14.02.40:566][196]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default_BuiltData2200C130461DC4E312F85DA283E42D41.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.27-14.02.40:639][196]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-14.02.40:639][196]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.27-14.02.40:639][196]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
