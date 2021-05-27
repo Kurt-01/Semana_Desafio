@@ -1196,3 +1196,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-12.16.24:207][ 25]Cmd: EDIT COPY
 [2021.05.27-12.16.24:452][ 33]Cmd: EDIT PASTE
 [2021.05.27-12.16.50:851][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.27-12.17.36:657][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.05.27-12.17.36:777][842]LogSavePackage: Moving '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Minimal_Default_Auto21902E4C041C3B1A3BADD54B38AB23619.tmp' to '../../../../../../Users/arthu/OneDrive/Documentos/GitHub/Semana_Desafio/Semana_Desafio/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2021.05.27-12.17.36:780][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.222
+[2021.05.27-12.17.36:780][842]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
