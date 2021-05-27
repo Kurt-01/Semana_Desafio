@@ -3132,3 +3132,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.27-19.18.42:963][820]LogSavePackage: Moving '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Saved/Minimal_Default_Auto23E2CF1EB4C3711004EB5E8BFEC7E11F8.tmp' to '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
 [2021.05.27-19.18.42:964][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.048
 [2021.05.27-19.18.42:964][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2021.05.27-19.26.20:876][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2021.05.27-19.26.38:268][612]LogEditorViewport: Clicking on Actor (LMB): PortaFake_C (PortaFake)
+[2021.05.27-19.26.39:440][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2021.05.27-19.26.46:747][561]Cmd: EDIT COPY
+[2021.05.27-19.26.47:113][598]Cmd: EDIT PASTE
+[2021.05.27-19.26.54:138][308]LogContentBrowser: Deferred new asset file creation: PortaFake1
+[2021.05.27-19.26.54:166][308]LogContentBrowser: Creating deferred item: PortaFake1
+[2021.05.27-19.27.05:989][544]LogContentBrowser: Attempting asset rename: PortaFake1 -> PortaFake2
+[2021.05.27-19.27.06:041][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.05.27-19.27.06:079][544]LogContentBrowser: End creating deferred item PortaFake1
+[2021.05.27-19.27.13:510][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2021.05.27-19.27.14:345][461]Cmd: DELETE
+[2021.05.27-19.27.14:345][461]Cmd: ACTOR DELETE
+[2021.05.27-19.27.14:347][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.27-19.27.14:369][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.05.27-19.27.14:372][461]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.05.27-19.27.16:227][683]LogEditorViewport: Clicking on Actor (LMB): PortaFake2_C (PortaFake3)
+[2021.05.27-19.27.18:571][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2021.05.27-19.27.18:908][998]Cmd: DELETE
+[2021.05.27-19.27.18:908][998]Cmd: ACTOR DELETE
+[2021.05.27-19.27.18:909][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.27-19.27.18:930][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.05.27-19.27.18:932][998]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.05.27-19.27.20:155][144]LogEditorViewport: Clicking on Actor (LMB): PortaFake2_C (PortaFake3)
+[2021.05.27-19.27.37:649][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2021.05.27-19.27.39:110][406]LogEditorViewport: Clicking on Actor (LMB): PortaFake2_C (PortaFake3)
+[2021.05.27-19.27.43:740][868]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortaFake2.PortaFake2
+[2021.05.27-19.27.46:282][ 95]LogSlate: Window 'PortaFake2' being destroyed
+[2021.05.27-19.27.46:285][ 95]LogSlate: Window 'PortaFake2' being destroyed
+[2021.05.27-19.27.46:320][ 95]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-19.27.46:320][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-19.27.46:439][ 95]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.27-19.27.46:439][ 95]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-19.27.46:439][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-19.27.52:405][792]LogEditorViewport: Clicking on Actor (LMB): PortaFake2_C (PortaFake3)
+[2021.05.27-19.28.24:311][303]LogTexture: Display: Building textures: Handprint_a_o (BC4, 256X128)
+[2021.05.27-19.28.24:311][303]LogTexture: Display: Building textures: Handprint_a_r (BC4, 256X128)
+[2021.05.27-19.28.24:311][303]LogTexture: Display: Building textures: Handprint_a_c (AutoDXT, 256X128)
+[2021.05.27-19.28.24:311][303]LogTexture: Display: Building textures: Handprint_a_n (BC5, 256X128)
+[2021.05.27-19.28.24:311][303]LogMaterial: Display: Missing cached shader map for material Master_Props_Masked_Mat, compiling. 
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 247
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 237
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 227
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 217
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 207
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 197
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 187
+[2021.05.27-19.28.24:403][303]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 177
+[2021.05.27-19.28.27:605][470]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 167
+[2021.05.27-19.28.28:269][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 157
+[2021.05.27-19.28.28:346][507]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 147
+[2021.05.27-19.28.28:547][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 137
+[2021.05.27-19.28.29:505][566]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 127
+[2021.05.27-19.28.29:579][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 117
+[2021.05.27-19.28.30:759][630]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 107
+[2021.05.27-19.28.31:117][648]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 97
+[2021.05.27-19.28.31:136][649]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 87
+[2021.05.27-19.28.31:263][656]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 77
+[2021.05.27-19.28.31:813][684]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2021.05.27-19.28.32:189][703]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2021.05.27-19.28.33:217][754]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2021.05.27-19.28.33:956][790]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2021.05.27-19.28.34:082][797]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2021.05.27-19.28.34:219][804]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2021.05.27-19.28.34:816][833]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.05.27-19.28.35:045][844]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2021.05.27-19.28.35:566][870]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.05.27-19.28.35:656][875]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.05.27-19.28.35:674][876]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2021.05.27-19.28.35:732][879]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.05.27-19.28.35:773][881]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.05.27-19.28.35:909][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.05.27-19.28.36:296][908]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.05.27-19.28.36:385][912]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.05.27-19.28.36:466][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.05.27-19.28.36:466][917]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.05.27-19.28.36:470][917]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.05.27-19.28.36:531][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.05.27-19.28.44:686][474]LogTexture: Display: Building textures: Door_a_m (BC4, 128X256)
+[2021.05.27-19.28.44:686][474]LogTexture: Display: Building textures: Door_a_r (BC4, 256X512)
+[2021.05.27-19.28.44:686][474]LogTexture: Display: Building textures: Door_a_c (AutoDXT, 512X1024)
+[2021.05.27-19.28.44:686][474]LogTexture: Display: Building textures: Door_a_n (BC5, 512X1024)
+[2021.05.27-19.28.49:973][923]LogTexture: Display: Building textures: DoorTheresa_a_c (AutoDXT, 512X1024)
+[2021.05.27-19.28.58:340][590]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SM_Door)
+[2021.05.27-19.29.16:865][257]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.27-19.29.16:869][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.27-19.29.16:869][257]PIE: New page: Sessão de PIE : Minimal_Default (27 de mai de 2021 13:29:16)
+[2021.05.27-19.29.16:904][257]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-19.29.16:908][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2021.05.27-19.29.16:909][257]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.27-19.29.16:909][257]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.05.27-19.29.16:909][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005472s)
+[2021.05.27-19.29.16:956][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.05.27-19.29.16:970][257]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.27-19.29.16:970][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.27-19.29.16:970][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.27-19.29.16:970][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.27-19.29.16:973][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.27-19.29.16:973][257]LogAudioMixer: Display: 1: FrontRight
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Using Audio Device Fones de ouvido / Alto falantes (Realtek Audio)
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.27-19.29.17:049][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.27-19.29.17:049][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.27-19.29.17:061][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.27-19.29.17:061][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.27-19.29.17:061][257]LogInit: FAudioDevice initialized.
+[2021.05.27-19.29.17:061][257]LogAudio: Display: Audio Device (ID: 34) registered with world 'Minimal_Default'.
+[2021.05.27-19.29.17:066][257]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.05.27-19.29.17:068][257]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.27-16.29.17
+[2021.05.27-19.29.17:068][257]LogWorld: Bringing up level for play took: 0.001305
+[2021.05.27-19.29.17:068][257]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.05.27-19.29.17:071][257]PIE: Servidor conectado
+[2021.05.27-19.29.17:071][257]PIE: Play in editor total start time 0,204 seconds.
+[2021.05.27-19.29.35:595][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-19.29.35:595][469]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.27-19.29.35:595][469]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.27-19.29.35:596][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-19.29.35:603][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.27-19.29.35:611][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.27-19.29.35:624][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.27-19.29.35:624][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-19.29.35:625][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.27-19.29.35:639][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.27-19.29.35:643][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.05.27-19.29.35:666][470]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.05.27-19.29.36:872][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.05.27-19.29.36:889][602]LogSavePackage: Moving '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Saved/Minimal_Default04D9A5004207D826CE7CB785C7D17EA1.tmp' to '../../../../../../Users/Administrador/Desktop/Semana Desafio/Semana_Desafio/Semana_Desafio 4.26/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.27-19.29.36:905][602]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.05.27-19.29.36:905][602]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
